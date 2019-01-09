@@ -1,0 +1,4 @@
+This project is based on Word Predictor. Word prediction works like this. As a student types, the software monitors the input letter-by-letter, and produces a list of words beginning with the letter sequence recorded. Each time a letter is added, the list is updated. When the target word appears in the list, it can be chosen and inserted into the ongoing text with a single keystroke.
+The include.docx file includes the code for the project and the wordlist.txt file includes the list of words available in the dictionary.
+Run the code and use wordlist file in the code to use that dictionary for the word prediction.
+Enjoy!
